@@ -1,0 +1,32 @@
+.subscribe {
+    padding: 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .subscribe h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .subscribe input[type="email"] {
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 250px;
+  }
+  
+  .subscribe button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .subscribe button:hover {
+    background-color: #555;
+  }
+  

@@ -1,0 +1,30 @@
+.featured-articles {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .featured-articles h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .article-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .featured-articles button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .featured-articles button:hover {
+    background-color: #555;
+  }
+  
